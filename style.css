@@ -408,8 +408,8 @@ span{
 .column-right .python::before{
     width: 30%;
 }
-.column-right .bars .more-skills{
-    padding-top: 20px;
+.column-right .more-skills{
+    padding-top: 30px;
 }
 .contact{
     background: #270355;
