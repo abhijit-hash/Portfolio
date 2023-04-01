@@ -411,6 +411,9 @@ span{
 .column-right .more-skills{
     padding-top: 30px;
 }
+.blog{
+    background: linear-gradient(135deg, #153677, #4e085f);
+}
 .contact{
     background: #270355;
 }
