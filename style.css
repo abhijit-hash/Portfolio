@@ -40,7 +40,7 @@ body{
 }
 .logo{
     font-size: 3rem;
-    color: var(--text-color);
+    color: violet;
     font-weight: 600;
     cursor: pointer;
 }
