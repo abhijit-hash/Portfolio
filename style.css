@@ -39,10 +39,9 @@ body{
     border-bottom: .1rem solid rgba(0,0,0,.2);
 }
 .logo{
-    font-size: 3rem;
-    color: violet;
-    font-weight: 600;
-    cursor: pointer;
+    position: relative;
+    width: 125px;
+    height: 105px;
 }
 .navbar a{
     font-size: 2.2rem;
