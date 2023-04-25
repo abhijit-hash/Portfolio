@@ -348,8 +348,8 @@ span{
     flex-basis: 60%;
 }
 .column-left img{
-    width: 700px;
-    height: 500px;
+    width: 500px;
+    height: 700px;
     padding-top: 20px;
     padding-bottom: 20px;
     animation: floatImage 2s ease-in-out infinite;
