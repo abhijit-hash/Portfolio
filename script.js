@@ -33,7 +33,7 @@ ScrollReveal({
     delay: 200
 });
 
-ScrollReveal().reveal('.home-content, .about-content, .book, .column, .column-left img, .images img, .dots label', { origin: 'top' });
+ScrollReveal().reveal('.home-content, .about-content, .book, .column, .column-left img, .slider', { origin: 'top' });
 ScrollReveal().reveal('.home-img, .about-img, .dot, .services-container, .drive, .portfolio-box, .more-folio, .contact form, .love, .boat', { origin: 'bottom' });
 ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .about-content, .column-left h3', { origin: 'right' });
