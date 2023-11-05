@@ -404,7 +404,7 @@ span{
 .column-right .dsa::before{
     width: 60%;
 }
-.column-right .python::before{
+.column-right .mysql::before{
     width: 30%;
 }
 .column-right .more-skills{
